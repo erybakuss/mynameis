@@ -1,1 +1,1 @@
-print "My name is Erik"
+print "My name is Erik and I love python"
